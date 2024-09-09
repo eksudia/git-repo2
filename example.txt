@@ -1,7 +1,0 @@
-this is a simple
-
-this is a new line
-
-this is the third line
-
-and this is the fourth one!
